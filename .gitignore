@@ -1,6 +1,9 @@
-# Ignore everything
+# ignore everything
 *
 
-# But not these files...
+# except for useful things
 !.gitignore
 !*.cpp
+!.vscode
+!.vscode/*.json
+!README.md
