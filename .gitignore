@@ -4,6 +4,8 @@
 # except for useful things
 !.gitignore
 !*.cpp
+!*.py
+!*.java
 !.vscode
 !.vscode/*.json
 !README.md
